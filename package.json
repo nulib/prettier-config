@@ -1,6 +1,6 @@
 {
   "name": "@nulib/prettier-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "nulib Prettier config",
   "main": "index.json",
   "repository": "git@github.com:nulib/prettier-config.git",
